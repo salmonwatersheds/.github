@@ -7,3 +7,5 @@ The Salmon Watersheds Program works to strengthen the baseline of scientific inf
 **As part of our work to democratize salmon-related data, we are increasing efforts to make our data compilation and analyses transparent and reproducible.** Please be patient as we work to upload existing repositories and code to this organization GitHub page, and check back often to see where we're at! 
 
 For more information about the Salmon Watersheds Program and our work, visit [our website](www.salmonwatersheds.ca) or check out our flagship data visualization tool, the [Pacific Salmon Explorer](www.salmonexplorer.ca).
+
+![alt text](https://github.com/salmonwatersheds/.github/illustration-Aimee-VD-fingerlings-hr.tif?raw=true)
