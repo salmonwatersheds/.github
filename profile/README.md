@@ -8,4 +8,4 @@ The Salmon Watersheds Program works to strengthen the baseline of scientific inf
 
 For more information about the Salmon Watersheds Program and our work, visit [our website](www.salmonwatersheds.ca) or check out our flagship data visualization tool, the [Pacific Salmon Explorer](www.salmonexplorer.ca).
 
-![alt text](https://github.com/salmonwatersheds/.github/illustration-Aimee-VD-fingerlings-hr.tif?raw=true)
+![Illustration of juvenile salmon by Aimée van Drimmelen](https://github.com/salmonwatersheds/.github/blob/main/illustration-Aimee-VD-fingerlings-sm.jpg?raw=true)
